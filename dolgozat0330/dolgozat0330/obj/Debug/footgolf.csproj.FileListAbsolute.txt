@@ -1,0 +1,7 @@
+C:\Users\infod\source\repos\dolgozat0330\dolgozat0330\bin\Debug\dolgozat0330.exe.config
+C:\Users\infod\source\repos\dolgozat0330\dolgozat0330\bin\Debug\dolgozat0330.exe
+C:\Users\infod\source\repos\dolgozat0330\dolgozat0330\bin\Debug\dolgozat0330.pdb
+C:\Users\infod\source\repos\dolgozat0330\dolgozat0330\obj\Debug\footgolf.csprojAssemblyReference.cache
+C:\Users\infod\source\repos\dolgozat0330\dolgozat0330\obj\Debug\footgolf.csproj.CoreCompileInputs.cache
+C:\Users\infod\source\repos\dolgozat0330\dolgozat0330\obj\Debug\dolgozat0330.exe
+C:\Users\infod\source\repos\dolgozat0330\dolgozat0330\obj\Debug\dolgozat0330.pdb
